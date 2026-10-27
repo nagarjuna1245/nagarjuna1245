@@ -1,5 +1,6 @@
 <!-- ============================ BANNER ============================ -->
-<img src="banner.svg" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
+<img src="banner.png" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
+
 
 <div align="center">
 
