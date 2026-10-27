@@ -100,7 +100,7 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-  <a href="https://github.com/nagarjuna1245/water-sort-puzzle-game">
+  <a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=water-sort-puzzle-game&theme=tokyonight&hide_border=true" />
   </a>
 </td>
