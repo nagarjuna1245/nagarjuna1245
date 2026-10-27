@@ -1,12 +1,25 @@
 <!-- ============================ BANNER ============================ -->
-<img src="banner.png" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,50:1e3a8a,100:7c3aed&height=260&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20JavaScript%20%C2%B7%20SQL&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B+I'm+Nagarjuna;B.Tech+CSE+Graduate+%7C+Class+of+2026;Building+with+React+%26+JavaScript;Open+to+Fresher+%26+Entry-level+Roles+%F0%9F%9A%80" alt="Typing animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=for-the-badge" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/nagarjuna1245"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vercel,vscode&theme=dark" />
 
 <br/><br/>
 
@@ -15,6 +28,8 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ RECRUITER SNAPSHOT ============================ -->
 <h2 align="center">⚡ Recruiter Snapshot</h2>
@@ -34,6 +49,8 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
 <!-- ============================ ABOUT ============================ -->
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -48,6 +65,8 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ TECH STACK ============================ -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -72,6 +91,8 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 </table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ PROJECTS ============================ -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -112,7 +133,9 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 <br/>
 
-<!-- ============================ WHY HIRE ME ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
+<!-- ============================ WHAT I BRING ============================ -->
 <h2 align="center">💡 What I Bring</h2>
 
 <table align="center">
@@ -142,6 +165,8 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
 <!-- ============================ CERTIFICATIONS ============================ -->
 <h2 align="center">📜 Certifications & Courses</h2>
 
@@ -149,12 +174,14 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 | Course | Focus |
 |:-------|:------|
-| 🎬 **Motion Cut** | Web Developement |
-
+| 🎬 **Motion Cut** | Video editing |
+| 🌐 **Web Development** | HTML, CSS, JavaScript |
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ GOALS ============================ -->
 <h2 align="center">🎯 Currently Working Towards</h2>
@@ -169,6 +196,8 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ CONTACT ============================ -->
 <h2 align="center">🤝 Let's Work Together</h2>
@@ -189,4 +218,4 @@ If you're hiring or have a project idea, I'd love to hear from you.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0b0f2a&height=110&section=footer" width="100%" alt="footer" />
