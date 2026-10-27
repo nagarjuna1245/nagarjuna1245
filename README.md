@@ -174,8 +174,7 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 | Course | Focus |
 |:-------|:------|
-| 🎬 **Motion Cut** | Video editing |
-| 🌐 **Web Development** | HTML, CSS, JavaScript |
+| 🌐 ** Full Stack Developer ** | HTML, CSS, JavaScript ,React , Python , Django, DSA , SQL ,Git , GitHub |
 
 </div>
 
