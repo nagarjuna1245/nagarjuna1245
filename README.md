@@ -1,4 +1,4 @@
-<!-- ============================ 1. HERO ============================ -->
+<!-- ============================ TOP BANNER ============================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:A855F7,100:06B6D4&height=300&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha — Full Stack Developer" />
 
 <div align="center">
@@ -17,19 +17,19 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:A855F7,100:7C3AED&height=60&section=footer" width="100%" alt="" />
+<br/><br/>
 
-<br/>
-
-<!-- ============================ 2. ABOUT ME ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%93%96%20About%20Me&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="About Me section header" />
-
+<!-- ============================ ABOUT ME ============================ -->
 <div align="center">
+
+## 📖&nbsp; About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="82%">
-
-<br/>
 
 > I'm a **B.Tech Computer Science graduate** (Anurag Engineering College, Class of 2026) with a
 > strong interest in **full stack development**. On the frontend I build with **React.js,
@@ -44,32 +44,31 @@
 
 🎓&nbsp;**B.Tech CSE '26**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🧩&nbsp;**Full Stack**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;📍&nbsp;**Hyderabad, India**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🟢&nbsp;**Open to work**
 
-<br/>
-
 </td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+<br/><br/>
 
-<br/>
-
-<!-- ============================ 3. TECH STACK ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%A7%B0%20Tech%20Stack&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Tech Stack section header" />
-
+<!-- ============================ TECH STACK ============================ -->
 <div align="center">
+
+## 🧰&nbsp; Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="50%">
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=5" width="94%" alt="" /><br/>
 <sub><b>FRONTEND</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="HTML5, CSS3, JavaScript, React.js" />
 <br/><br/>
 </td>
 <td align="center" width="50%">
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=5" width="94%" alt="" /><br/>
 <sub><b>BACKEND</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,django&theme=light" alt="Python, Django" />
@@ -93,20 +92,22 @@
 </td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+<br/><br/>
 
-<br/>
-
-<!-- ============================ 4. FEATURED PROJECTS ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Featured Projects section header" />
-
+<!-- ============================ FEATURED PROJECTS ============================ -->
 <div align="center">
+
+## 🚀&nbsp; Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=6" width="100%" alt="" />
 <br/>
 <h1>🎮</h1>
@@ -123,7 +124,6 @@
 <br/><br/>
 </td>
 <td align="center" width="33%" valign="top">
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=6" width="100%" alt="" />
 <br/>
 <h1>🛒</h1>
@@ -137,7 +137,6 @@
 <br/><br/>
 </td>
 <td align="center" width="33%" valign="top">
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:FB7185&height=6" width="100%" alt="" />
 <br/>
 <h1>🤖</h1>
@@ -151,36 +150,41 @@
 </td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+<br/><br/>
 
-<br/>
-
-<!-- ============================ 5. CERTIFICATIONS ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%93%9C%20Certifications%20%26%20Courses&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Certifications and Courses section header" />
-
+<!-- ============================ CERTIFICATIONS ============================ -->
 <div align="center">
+
+## 📜&nbsp; Certifications & Courses
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="80%">
-<br/>
 <h3>🌐 Full Stack Developer Course</h3>
 <sub>HTML · CSS · JavaScript · React · Python · Django · DSA · SQL · Git · GitHub</sub>
 <br/><br/>
 </td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+<br/><br/>
 
-<br/>
-
-<!-- ============================ 6. GOALS / ROADMAP ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%8E%AF%20Goals%20%26%20Roadmap&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Goals and Roadmap section header" />
-
+<!-- ============================ GOALS ============================ -->
 <div align="center">
+
+## 🎯&nbsp; Goals & Roadmap
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+
+<br/><br/>
+
 <table>
 <tr>
 <td align="center" width="150"><img src="https://img.shields.io/badge/DONE-06B6D4?style=for-the-badge" alt="Done" /></td>
@@ -199,18 +203,18 @@
 <td align="left">Contribute to an open-source project</td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+<br/><br/>
 
-<br/>
-
-<!-- ============================ 7. CONTACT ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%A4%9D%20Let's%20Work%20Together&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Let's Work Together section header" />
-
+<!-- ============================ CONTACT ============================ -->
 <div align="center">
 
-<br/>
+## 🤝&nbsp; Let's Work Together
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+
+<br/><br/>
 
 I'm open to **fresher and entry-level Full Stack Developer** opportunities — let's connect.
 
@@ -223,9 +227,9 @@ I'm open to **fresher and entry-level Full Stack Developer** opportunities — l
 
 <sub>⭐ Thanks for visiting my profile!</sub>
 
-<br/>
-
 </div>
 
-<!-- ============================ FOOTER ============================ -->
+<br/>
+
+<!-- ============================ BOTTOM BANNER ============================ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:A855F7,100:7C3AED&height=140&section=footer" width="100%" alt="Footer" />
