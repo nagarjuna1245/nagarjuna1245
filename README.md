@@ -1,235 +1,220 @@
-<!-- ============================ TOP BANNER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:A855F7,100:06B6D4&height=300&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha — Full Stack Developer" />
+<!-- ============================ BANNER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,50:1e3a8a,100:7c3aed&height=260&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20JavaScript%20%C2%B7%20SQL&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&height=45&lines=Hi+%F0%9F%91%8B+I'm+Nagarjuna;B.Tech+CSE+Graduate+%7C+Class+of+2026;I+build+full+stack+web+apps+with+React.js+%26+Python;Open+to+Fresher+%2F+Entry-level+Full+Stack+Roles+%E2%9C%A8" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B+I'm+Nagarjuna;B.Tech+CSE+Graduate+%7C+Class+of+2026;Building+with+React+%26+JavaScript;Open+to+Fresher+%26+Entry-level+Roles+%F0%9F%9A%80" alt="Typing animation" />
 
 <br/>
 
-<a href="https://github.com/nagarjuna1245"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/Email-FB7185?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nagarjuna1245&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile view counter" />
+<a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/nagarjuna1245"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vercel,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=nagarjuna1245&label=Profile%20Views&color=0e75b6&style=flat-square" />
 
 </div>
 
-<br/><br/>
+<br/>
 
-<!-- ============================ ABOUT ME ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
+<!-- ============================ RECRUITER SNAPSHOT ============================ -->
+<h2 align="center">⚡ Recruiter Snapshot</h2>
+
 <div align="center">
 
-## 📖&nbsp; About Me
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="82%">
-
-> I'm a **B.Tech Computer Science graduate** (Anurag Engineering College, Class of 2026) with a
-> strong interest in **full stack development**. On the frontend I build with **React.js,
-> JavaScript, HTML and CSS**; on the backend I work with **Python, Django and SQL**, backed by a
-> solid grasp of **Data Structures & Algorithms**.
->
-> I enjoy turning ideas into working, interactive web applications and I'm continuously sharpening
-> my skills. I'm looking for a **fresher or entry-level Full Stack Developer** opportunity where I
-> can learn, contribute, and grow.
-
-<br/>
-
-🎓&nbsp;**B.Tech CSE '26**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🧩&nbsp;**Full Stack**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;📍&nbsp;**Hyderabad, India**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🟢&nbsp;**Open to work**
-
-</td>
-</tr>
-</table>
+| | |
+|:--|:--|
+| 🎯 **Role** | Full Stack Developer (Fresher / Entry-level) |
+| 🟢 **Availability** | Open to work |
+| 🎓 **Education** | B.Tech in Computer Science, Anurag Engineering College (2026) |
+| 🛠️ **Primary Stack** | React · JavaScript · HTML · CSS · SQL |
+| 📍 **Location** | Hyderabad, India |
+| 📫 **Contact** | [LinkedIn](https://www.linkedin.com/in/nagarjuna-kotha/) · [Email](mailto:nagarjunakotha378@gmail.com) |
 
 </div>
 
-<br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
+<!-- ============================ ABOUT ============================ -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+I'm a **Computer Science graduate** who learns by building.
+I create web applications with **React and JavaScript**, and I'm growing into a **Full Stack Developer**
+by learning backend development and databases.
+
+I'm looking for a **fresher or entry-level role** where I can contribute, learn from experienced engineers, and grow with a team.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ TECH STACK ============================ -->
-<div align="center">
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🧰&nbsp; Tech Stack
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+<table align="center">
+<tr>
+<td align="center" width="190"><b>Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,js&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools & Deployment</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" /></td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
+<!-- ============================ PROJECTS ============================ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=5" width="94%" alt="" /><br/>
-<sub><b>FRONTEND</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="HTML5, CSS3, JavaScript, React.js" />
-<br/><br/>
+  <a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=water-sort-puzzle-game&theme=tokyonight&hide_border=true" />
+  </a>
 </td>
 <td align="center" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=5" width="94%" alt="" /><br/>
-<sub><b>BACKEND</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,django&theme=light" alt="Python, Django" />
-<br/><br/>
+  <a href="https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=E-Commerce-Website-React-Js-&theme=tokyonight&hide_border=true" />
+  </a>
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:FB7185&height=5" width="94%" alt="" /><br/>
-<sub><b>DATABASE & FUNDAMENTALS</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="SQL" />
-<br/>
-<sub><b>Data Structures & Algorithms</b></sub>
-<br/><br/>
-</td>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FB7185,100:7C3AED&height=5" width="94%" alt="" /><br/>
-<sub><b>TOOLS</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel&theme=light" alt="Git, GitHub, Vercel" />
-<br/><br/>
+<td align="center" colspan="2">
+  <a href="https://github.com/nagarjuna1245/Simple-GPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Simple-GPT&theme=tokyonight&hide_border=true" />
+  </a>
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<br/><br/>
-
-<!-- ============================ FEATURED PROJECTS ============================ -->
 <div align="center">
 
-## 🚀&nbsp; Featured Projects
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
+| Project | What it is | Tech |
+|:--------|:-----------|:-----|
+| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/water-sort-puzzle-game) | Interactive color sorting puzzle where you pour water between tubes | `React` `JavaScript` `CSS` |
+| 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | `React` `JavaScript` |
+| 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | `JavaScript` |
 
-<br/><br/>
+</div>
 
-<table>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
+<!-- ============================ WHAT I BRING ============================ -->
+<h2 align="center">💡 What I Bring</h2>
+
+<table align="center">
 <tr>
-<td align="center" width="33%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=6" width="100%" alt="" />
-<br/>
-<h1>🎮</h1>
-<h3>Water Sort Puzzle Game</h3>
-<sub>Interactive color-sorting puzzle with tube-based gameplay and level progression.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=20232A" alt="React.js" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-<br/><br/>
-<a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-"><img src="https://img.shields.io/badge/Source%20Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View source code" /></a>
-<br/><br/>
-<a href="https://puzz.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live demo" /></a>
-<br/><br/>
+<td align="center" width="25%">
+<h3>🧱</h3>
+<b>Project-Driven</b><br/>
+<sub>I learn by building real, working projects</sub>
 </td>
-<td align="center" width="33%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=6" width="100%" alt="" />
-<br/>
-<h1>🛒</h1>
-<h3>E-Commerce Website</h3>
-<sub>Shopping site focused on product listing and cart functionality.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=20232A" alt="React.js" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<br/><br/>
-<a href="https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-"><img src="https://img.shields.io/badge/Source%20Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View source code" /></a>
-<br/><br/>
+<td align="center" width="25%">
+<h3>⚛️</h3>
+<b>React Skills</b><br/>
+<sub>Component-based UIs with JavaScript</sub>
 </td>
-<td align="center" width="33%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:FB7185&height=6" width="100%" alt="" />
-<br/>
-<h1>🤖</h1>
-<h3>Simple GPT</h3>
-<sub>A chatbot that answers questions using an AI model.</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<br/><br/>
-<a href="https://github.com/nagarjuna1245/Simple-GPT"><img src="https://img.shields.io/badge/Source%20Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View source code" /></a>
-<br/><br/>
+<td align="center" width="25%">
+<h3>🔀</h3>
+<b>Git Workflow</b><br/>
+<sub>Version control with Git and GitHub</sub>
+</td>
+<td align="center" width="25%">
+<h3>🌱</h3>
+<b>Fast Learner</b><br/>
+<sub>Always picking up new tools and concepts</sub>
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ CERTIFICATIONS ============================ -->
+<h2 align="center">📜 Certifications & Courses</h2>
+
 <div align="center">
 
-## 📜&nbsp; Certifications & Courses
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="80%">
-<h3>🌐 Full Stack Developer Course</h3>
-<sub>HTML · CSS · JavaScript · React · Python · Django · DSA · SQL · Git · GitHub</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+| Course | Focus |
+|:-------|:------|
+| 🌐 ** Full Stack Developer ** | HTML, CSS, JavaScript ,React , Python , Django, DSA , SQL ,Git , GitHub |
 
 </div>
 
-<br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ GOALS ============================ -->
+<h2 align="center">🎯 Currently Working Towards</h2>
+
 <div align="center">
 
-## 🎯&nbsp; Goals & Roadmap
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="150"><img src="https://img.shields.io/badge/DONE-06B6D4?style=for-the-badge" alt="Done" /></td>
-<td align="left">Build real full stack projects with React.js, Python and SQL</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/IN%20PROGRESS-FB7185?style=for-the-badge" alt="In progress" /></td>
-<td align="left">Strengthening Data Structures & Algorithms and backend fundamentals</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/NEXT-A855F7?style=for-the-badge" alt="Next" /></td>
-<td align="left">Land my first role as a <b>Full Stack Developer</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/NEXT-A855F7?style=for-the-badge" alt="Next" /></td>
-<td align="left">Contribute to an open-source project</td>
-</tr>
-</table>
+✅ Build real projects with React and JavaScript
+🔄 Learning Node.js, Express and databases
+⬜ Land my first role as a **Full Stack Developer**
+⬜ Contribute to an open-source project
 
 </div>
 
-<br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 <!-- ============================ CONTACT ============================ -->
+<h2 align="center">🤝 Let's Work Together</h2>
+
 <div align="center">
 
-## 🤝&nbsp; Let's Work Together
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:06B6D4&height=4" width="150" alt="" />
-
-<br/><br/>
-
-I'm open to **fresher and entry-level Full Stack Developer** opportunities — let's connect.
+I'm open to **fresher and entry-level opportunities**.
+If you're hiring or have a project idea, I'd love to hear from you.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-FB7185?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<sub>⭐ Thanks for visiting my profile!</sub>
+<i>⭐ Thanks for visiting my profile!</i>
 
 </div>
 
-<br/>
-
-<!-- ============================ BOTTOM BANNER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:A855F7,100:7C3AED&height=140&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0b0f2a&height=110&section=footer" width="100%" alt="footer" />
