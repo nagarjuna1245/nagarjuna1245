@@ -1,9 +1,9 @@
 <!-- ============================ HERO ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:A855F7,100:06B6D4&height=300&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20JavaScript&descSize=21&descAlignY=58&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha - Frontend Developer | React.js | JavaScript" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:A855F7,100:06B6D4&height=300&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React.js%20%C2%B7%20Python%20%C2%B7%20SQL&descSize=21&descAlignY=58&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer | React.js | Python | SQL" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&height=45&lines=Hi+%F0%9F%91%8B+I'm+Nagarjuna;B.Tech+CSE+Graduate+%7C+Class+of+2026;I+build+interactive+%26+responsive+web+apps+with+React.js;Open+to+Fresher+%2F+Entry-level+Frontend+Roles+%E2%9C%A8" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&height=45&lines=Hi+%F0%9F%91%8B+I'm+Nagarjuna;B.Tech+CSE+Graduate+%7C+Class+of+2026;I+build+full+stack+web+apps+with+React.js+%26+Python;Open+to+Fresher+%2F+Entry-level+Full+Stack+Roles+%E2%9C%A8" alt="Typing animation" />
 
 <br/>
 
@@ -32,17 +32,18 @@
 
 <br/>
 
-### Frontend developer in the making, one project at a time
+### Full stack developer in the making, one project at a time
 
-> I'm a **B.Tech Computer Science graduate** with a strong interest in **frontend development**.
-> I work with **React.js, JavaScript, HTML and CSS**, and I enjoy building **interactive and responsive web applications**.
+> I'm a **B.Tech Computer Science graduate** with a strong interest in **full stack development**.
+> On the frontend I build with **React.js, JavaScript, HTML and CSS**, and on the backend I work with
+> **Python, Django and SQL** — backed by a solid grasp of **Data Structures & Algorithms**.
 >
-> I'm continuously improving my programming and development skills, and I'm looking for
-> **fresher or entry-level Frontend Developer / React.js Developer** opportunities.
+> I enjoy building interactive, end-to-end web applications and I'm continuously improving my skills.
+> I'm looking for **fresher or entry-level Full Stack Developer** opportunities.
 
 <br/>
 
-🎓&nbsp;**B.Tech CSE '26**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;⚛️&nbsp;**React.js**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;📍&nbsp;**Hyderabad, India**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🟢&nbsp;**Open to work**
+🎓&nbsp;**B.Tech CSE '26**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🧩&nbsp;**Full Stack**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;📍&nbsp;**Hyderabad, India**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🟢&nbsp;**Open to work**
 
 <br/>
 
@@ -63,22 +64,32 @@
 
 <table>
 <tr>
-<td align="center" width="34%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=5" width="92%" alt="" /><br/>
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=5" width="94%" alt="" /><br/>
 <sub><b>FRONTEND</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="HTML, CSS, JavaScript, React" />
 <br/><br/>
 </td>
-<td align="center" width="22%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=5" width="92%" alt="" /><br/>
-<sub><b>PROGRAMMING & DB</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=light" alt="Python, MySQL" />
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=5" width="94%" alt="" /><br/>
+<sub><b>BACKEND</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,django&theme=light" alt="Python, Django" />
 <br/><br/>
 </td>
-<td align="center" width="44%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:FB7185&height=5" width="92%" alt="" /><br/>
+</tr>
+<tr>
+<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:FB7185&height=5" width="94%" alt="" /><br/>
+<sub><b>DATABASE & FUNDAMENTALS</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="SQL / MySQL" />
+<br/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-27233A?style=flat-square" alt="Data Structures & Algorithms" />
+<br/><br/>
+</td>
+<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FB7185,100:7C3AED&height=5" width="94%" alt="" /><br/>
 <sub><b>TOOLS</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=light" alt="Git, GitHub, VS Code, Vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel&theme=light" alt="Git, GitHub, Vercel" />
 <br/><br/>
 </td>
 </tr>
@@ -177,15 +188,15 @@
 <table>
 <tr>
 <td align="center" width="150"><img src="https://img.shields.io/badge/DONE-06B6D4?style=for-the-badge" alt="Done" /></td>
-<td align="left">Build real projects with React.js and JavaScript</td>
+<td align="left">Build real projects with React.js, Python and SQL</td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/IN%20PROGRESS-FB7185?style=for-the-badge" alt="In progress" /></td>
-<td align="left">Learning Node.js, Express and databases</td>
+<td align="left">Sharpening Data Structures & Algorithms and backend fundamentals</td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/NEXT-A855F7?style=for-the-badge" alt="Next" /></td>
-<td align="left">Land my first role as a <b>Frontend / React.js Developer</b></td>
+<td align="left">Land my first role as a <b>Full Stack Developer</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/NEXT-A855F7?style=for-the-badge" alt="Next" /></td>
@@ -204,7 +215,7 @@
 
 <div align="center">
 
-I'm open to **fresher and entry-level Frontend Developer / React.js Developer** opportunities.<br/>
+I'm open to **fresher and entry-level Full Stack Developer** opportunities.<br/>
 If you're hiring or have a project idea, I'd love to hear from you.
 
 <br/>
