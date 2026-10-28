@@ -17,12 +17,12 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:A855F7,100:7C3AED&height=60&section=footer" width="100%" alt="" />
+
 <br/>
 
 <!-- ============================ 2. ABOUT ME ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=70&section=header&text=%F0%9F%93%96%20About%20Me&fontSize=27&fontColor=27233A&fontAlignY=52" width="100%" alt="About Me section header" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%93%96%20About%20Me&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="About Me section header" />
 
 <div align="center">
 <table>
@@ -51,23 +51,25 @@
 </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+
 <br/>
 
 <!-- ============================ 3. TECH STACK ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=70&section=header&text=%F0%9F%A7%B0%20Tech%20Stack&fontSize=27&fontColor=27233A&fontAlignY=52" width="100%" alt="Tech Stack section header" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%A7%B0%20Tech%20Stack&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Tech Stack section header" />
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=5" width="94%" alt="" /><br/>
 <sub><b>FRONTEND</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="HTML5, CSS3, JavaScript, React.js" />
 <br/><br/>
 </td>
 <td align="center" width="50%">
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=5" width="94%" alt="" /><br/>
 <sub><b>BACKEND</b></sub><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,django&theme=light" alt="Python, Django" />
@@ -93,17 +95,18 @@
 </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+
 <br/>
 
 <!-- ============================ 4. FEATURED PROJECTS ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=70&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=27&fontColor=27233A&fontAlignY=52" width="100%" alt="Featured Projects section header" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Featured Projects section header" />
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=6" width="100%" alt="" />
 <br/>
 <h1>🎮</h1>
@@ -120,6 +123,7 @@
 <br/><br/>
 </td>
 <td align="center" width="33%" valign="top">
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:06B6D4&height=6" width="100%" alt="" />
 <br/>
 <h1>🛒</h1>
@@ -133,6 +137,7 @@
 <br/><br/>
 </td>
 <td align="center" width="33%" valign="top">
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:FB7185&height=6" width="100%" alt="" />
 <br/>
 <h1>🤖</h1>
@@ -148,12 +153,12 @@
 </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+
 <br/>
 
 <!-- ============================ 5. CERTIFICATIONS ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=70&section=header&text=%F0%9F%93%9C%20Certifications%20%26%20Courses&fontSize=27&fontColor=27233A&fontAlignY=52" width="100%" alt="Certifications and Courses section header" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%93%9C%20Certifications%20%26%20Courses&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Certifications and Courses section header" />
 
 <div align="center">
 <table>
@@ -168,12 +173,12 @@
 </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
+
 <br/>
 
 <!-- ============================ 6. GOALS / ROADMAP ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=70&section=header&text=%F0%9F%8E%AF%20Goals%20%26%20Roadmap&fontSize=27&fontColor=27233A&fontAlignY=52" width="100%" alt="Goals and Roadmap section header" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%8E%AF%20Goals%20%26%20Roadmap&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Goals and Roadmap section header" />
 
 <div align="center">
 <table>
@@ -196,14 +201,16 @@
 </table>
 </div>
 
-<br/>
-
-<!-- ============================ 7. CONTACT / FOOTER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=70&section=header&text=%F0%9F%A4%9D%20Let's%20Work%20Together&fontSize=27&fontColor=27233A&fontAlignY=52" width="100%" alt="Let's Work Together section header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=28&section=footer" width="100%" alt="" />
 
 <br/>
+
+<!-- ============================ 7. CONTACT ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EDE9FE,100:E0F7FA&height=72&section=header&text=%F0%9F%A4%9D%20Let's%20Work%20Together&fontSize=27&fontColor=27233A&fontAlignY=55" width="100%" alt="Let's Work Together section header" />
 
 <div align="center">
+
+<br/>
 
 I'm open to **fresher and entry-level Full Stack Developer** opportunities — let's connect.
 
@@ -216,6 +223,9 @@ I'm open to **fresher and entry-level Full Stack Developer** opportunities — l
 
 <sub>⭐ Thanks for visiting my profile!</sub>
 
+<br/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:A855F7,100:7C3AED&height=130&section=footer" width="100%" alt="Footer" />
+<!-- ============================ FOOTER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:A855F7,100:7C3AED&height=140&section=footer" width="100%" alt="Footer" />
