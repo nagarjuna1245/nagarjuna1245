@@ -218,3 +218,4 @@ If you're hiring or have a project idea, I'd love to hear from you.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0b0f2a&height=110&section=footer" width="100%" alt="footer" />
+
