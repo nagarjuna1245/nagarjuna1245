@@ -12,6 +12,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fresher%20%E2%80%A2-Entry--level-0e75b6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/📍-Hyderabad%2C%20India-e67e22?style=for-the-badge" />
 
 <br/><br/>
@@ -19,6 +20,10 @@
 <a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/nagarjuna1245"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,mysql,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -30,7 +35,7 @@
 
 ### 👋 About
 
-Computer Science graduate (B.Tech, Anurag Engineering College) who learns by finishing real apps, not tutorials. My latest build is a full e-commerce storefront — product catalog, cart, checkout, animated UI — across 7 public repositories of hands-on practice. Trained through a Full Stack Developer program covering React, Python/Django, SQL and DSA, and now extending into Node.js, Express and databases so I can own a feature end-to-end. Looking for a fresher or entry-level role where I can contribute from day one.
+Computer Science graduate (B.Tech, Anurag Engineering College) who learns by finishing real apps, not tutorials. My latest build is a full e-commerce storefront — product catalog, cart, checkout, animated UI — across 7 public repositories of hands-on practice. Trained through a Full Stack Developer program covering React, Python/Django, SQL and DSA, and now extending into Node.js, Express and databases so I can own a feature end-to-end. Looking for a **fresher or entry-level role** where I can contribute from day one.
 
 <br/>
 
@@ -82,12 +87,6 @@ Computer Science graduate (B.Tech, Anurag Engineering College) who learns by fin
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,mysql,git,github,vscode,vercel&theme=dark" />
-</div>
-
-<br/>
-
 **Frontend** · React · React Router · Vite · Context API · HTML5 · CSS3
 **Languages** · JavaScript · Python
 **Database** · MySQL
@@ -101,6 +100,10 @@ Computer Science graduate (B.Tech, Anurag Engineering College) who learns by fin
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=nagarjuna1245&show_icons=true&theme=tokyonight&hide_border=true&icon_color=36BCF7&title_color=36BCF7" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjuna1245&layout=compact&theme=tokyonight&hide_border=true&icon_color=36BCF7&title_color=36BCF7" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nagarjuna1245&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 
 </div>
 
