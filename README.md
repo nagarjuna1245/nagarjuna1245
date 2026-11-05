@@ -1,220 +1,271 @@
-<!-- ============================ BANNER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,50:1e3a8a,100:7c3aed&height=260&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20JavaScript%20%C2%B7%20SQL&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=40&lines=Hi+%F0%9F%91%8B+I'm+Nagarjuna;B.Tech+CSE+Graduate+%7C+Class+of+2026;Building+with+React+%26+JavaScript;Open+to+Fresher+%26+Entry-level+Roles+%F0%9F%9A%80" alt="Typing animation" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/nagarjuna1245"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vercel,vscode&theme=dark" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nagarjuna1245&label=Profile%20Views&color=0e75b6&style=flat-square" />
-
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sourav</h1>
+<!-- <h4 align="center">UIET</h4> -->
 </div>
 
+<!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+<!-- <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
+<p align="center">
+<!-- 	<a href="https://github.com/Bouaskaoun">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	</a> -->
+</p>
 <br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;uietian;India&center=true&width=380&height=45">
+	</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+<hr>
 
-<!-- ============================ RECRUITER SNAPSHOT ============================ -->
-<h2 align="center">⚡ Recruiter Snapshot</h2>
+<pre>
+💻 Learning full stack and other programming languages
+🌟 Main languages: c++, JavaScript
+🚩 Interested in Full Stack
+⚡ Fun fact Coding is a passion and not profession
+🤝 I’m looking for help with Backend Design
+👯 I’m looking to work on some best projects so i can learn new skills
+</pre>
+<hr>
 
-<div align="center">
 
-| | |
-|:--|:--|
-| 🎯 **Role** | Full Stack Developer (Fresher / Entry-level) |
-| 🟢 **Availability** | Open to work |
-| 🎓 **Education** | B.Tech in Computer Science, Anurag Engineering College (2026) |
-| 🛠️ **Primary Stack** | React · JavaScript · HTML · CSS · SQL |
-| 📍 **Location** | Hyderabad, India |
-| 📫 **Contact** | [LinkedIn](https://www.linkedin.com/in/nagarjuna-kotha/) · [Email](mailto:nagarjunakotha378@gmail.com) |
 
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ ABOUT ============================ -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<div align="center">
-
-I'm a **Computer Science graduate** who learns by building.
-I create web applications with **React and JavaScript**, and I'm growing into a **Full Stack Developer**
-by learning backend development and databases.
-
-I'm looking for a **fresher or entry-level role** where I can contribute, learn from experienced engineers, and grow with a team.
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ TECH STACK ============================ -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="190"><b>Frontend</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,js&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Database</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Tools & Deployment</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" /></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ PROJECTS ============================ -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=water-sort-puzzle-game&theme=tokyonight&hide_border=true" />
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
   </a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=E-Commerce-Website-React-Js-&theme=tokyonight&hide_border=true" />
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Cpp%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
   </a>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-  <a href="https://github.com/nagarjuna1245/Simple-GPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Simple-GPT&theme=tokyonight&hide_border=true" />
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
   </a>
-</td>
-</tr>
-</table>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+<!--   <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
+  </a> -->
+</p>
 
-<br/>
+<h3 align="center">Frontend</h3>
+<p align="center">
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+<!--   <a href="https://babeljs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
+  </a>
+  <a href="https://bulma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
+      alt="bulma"/>
+  </a>
+  <a href="https://www.gatsbyjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
+  </a> -->
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+<!--   <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+  </a> 
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+  </a>
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+      alt="webpack"/>
+  </a> -->
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+<!--   <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+      alt="express" />
+  <a href="https://hibernate.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
+  </a>
+    <a href="https://spring.io/" target="_blank"> 
+      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
+  </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+  </a>
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
+      alt="nginx"/> 
+  </a>  -->
+</p>
+
+<!-- <h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+  </a>
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="redis"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+</p> -->
+
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+<!--   <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
+  </a> -->
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="heroku"/> 
+  </a> 
+</p>
+
+<!-- <h3 align="center">Testing</h3>
+<p align="center"> 
+  <a href="https://www.selenium.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
+      alt="selenium" /> 
+  </a> 
+  <a href="https://junit.org/junit5/" target="_blank"> 
+    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
+  </a> 
+</p> -->
+
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/Elanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+<!--     <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  </a> -->
+</p>
+
+<h3 align="center">Preferred IDEs  & Tools :</h3>
+<p align="center"> 
+<!--   <a href="https://eclipse.org" target="_blank">
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+  </a> -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+<!--   <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+  </a> -->
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+<!--   <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="virtualbox"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a> -->
+</p>
+
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
+
+
+
 
 <div align="center">
-
-| Project | What it is | Tech |
-|:--------|:-----------|:-----|
-| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/water-sort-puzzle-game) | Interactive color sorting puzzle where you pour water between tubes | `React` `JavaScript` `CSS` |
-| 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | `React` `JavaScript` |
-| 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | `JavaScript` |
-
+  <a href="https://www.linkedin.com/company/76498726/admin/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/sourav-singh-17b1a9194/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
+    
+</p>
 
-<!-- ============================ WHAT I BRING ============================ -->
-<h2 align="center">💡 What I Bring</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav9582&show_icons=true&locale=en" alt="sourav9582" /></p>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<h3>🧱</h3>
-<b>Project-Driven</b><br/>
-<sub>I learn by building real, working projects</sub>
-</td>
-<td align="center" width="25%">
-<h3>⚛️</h3>
-<b>React Skills</b><br/>
-<sub>Component-based UIs with JavaScript</sub>
-</td>
-<td align="center" width="25%">
-<h3>🔀</h3>
-<b>Git Workflow</b><br/>
-<sub>Version control with Git and GitHub</sub>
-</td>
-<td align="center" width="25%">
-<h3>🌱</h3>
-<b>Fast Learner</b><br/>
-<sub>Always picking up new tools and concepts</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ CERTIFICATIONS ============================ -->
-<h2 align="center">📜 Certifications & Courses</h2>
-
-<div align="center">
-
-| Course | Focus |
-|:-------|:------|
-| 🌐 ** Full Stack Developer ** | HTML, CSS, JavaScript ,React , Python , Django, DSA , SQL ,Git , GitHub |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ GOALS ============================ -->
-<h2 align="center">🎯 Currently Working Towards</h2>
-
-<div align="center">
-
-✅ Build real projects with React and JavaScript
-🔄 Learning Node.js, Express and databases
-⬜ Land my first role as a **Full Stack Developer**
-⬜ Contribute to an open-source project
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ CONTACT ============================ -->
-<h2 align="center">🤝 Let's Work Together</h2>
-
-<div align="center">
-
-I'm open to **fresher and entry-level opportunities**.
-If you're hiring or have a project idea, I'd love to hear from you.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/nagarjuna-kotha/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nagarjunakotha378@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>⭐ Thanks for visiting my profile!</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0b0f2a&height=110&section=footer" width="100%" alt="footer" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav9582&" alt="sourav9582" /></p>
