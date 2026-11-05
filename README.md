@@ -29,10 +29,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ RECRUITER SNAPSHOT ============================ -->
-<h2 align="center">⚡ Recruiter Snapshot</h2>
+## ⚡ Recruiter Snapshot
 
 <div align="center">
 
@@ -49,27 +46,15 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+## 👨‍💻 About Me
 
-<!-- ============================ ABOUT ============================ -->
-<h2 align="center">👨‍💻 About Me</h2>
+I'm a Computer Science graduate who learns best by shipping real, working projects rather than just reading about concepts. I build interfaces with **React and JavaScript**, and I'm extending that into full-stack work — currently learning **Node.js, Express, and relational databases** — so I can own a feature end‑to‑end, not just the UI layer.
 
-<div align="center">
-
-I'm a **Computer Science graduate** who learns by building.
-I create web applications with **React and JavaScript**, and I'm growing into a **Full Stack Developer**
-by learning backend development and databases.
-
-I'm looking for a **fresher or entry-level role** where I can contribute, learn from experienced engineers, and grow with a team.
-
-</div>
+I'm looking for a **fresher or entry-level role** where I can contribute from day one, learn from experienced engineers, and keep building.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ TECH STACK ============================ -->
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -92,15 +77,23 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+## 📊 GitHub Stats
 
-<!-- ============================ PROJECTS ============================ -->
-<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nagarjuna1245&show_icons=true&theme=tokyonight&hide_border=true&icon_color=36BCF7&title_color=36BCF7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjuna1245&layout=compact&theme=tokyonight&hide_border=true&icon_color=36BCF7&title_color=36BCF7" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-  <a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-">
+  <a href="https://github.com/nagarjuna1245/water-sort-puzzle-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=water-sort-puzzle-game&theme=tokyonight&hide_border=true" />
   </a>
 </td>
@@ -111,9 +104,14 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="50%">
   <a href="https://github.com/nagarjuna1245/Simple-GPT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Simple-GPT&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/nagarjuna1245/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=portfolio&theme=tokyonight&hide_border=true" />
   </a>
 </td>
 </tr>
@@ -125,18 +123,22 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 | Project | What it is | Tech |
 |:--------|:-----------|:-----|
-| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/water-sort-puzzle-game) | Interactive color sorting puzzle where you pour water between tubes | `React` `JavaScript` `CSS` |
+| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/water-sort-puzzle-game) | Interactive color-sorting puzzle where you pour water between tubes | `React` `JavaScript` `CSS` |
 | 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | `React` `JavaScript` |
 | 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | `JavaScript` |
+| 🧑‍💻 [**Personal Portfolio**](https://github.com/nagarjuna1245/portfolio) | Multi-page portfolio site — Home, About, Projects, Contact | `HTML` `CSS` |
+
+</div>
+
+<div align="center">
+
+[**→ See all repositories**](https://github.com/nagarjuna1245?tab=repositories)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ WHAT I BRING ============================ -->
-<h2 align="center">💡 What I Bring</h2>
+## 💡 What I Bring
 
 <table align="center">
 <tr>
@@ -165,41 +167,29 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ CERTIFICATIONS ============================ -->
-<h2 align="center">📜 Certifications & Courses</h2>
+## 📜 Certifications & Courses
 
 <div align="center">
 
 | Course | Focus |
 |:-------|:------|
-| 🌐 ** Full Stack Developer ** | HTML, CSS, JavaScript ,React , Python , Django, DSA , SQL ,Git , GitHub |
+| 🌐 **Full Stack Developer** | HTML, CSS, JavaScript, React, Python, Django, DSA, SQL, Git, GitHub |
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+## 🎯 Currently Working Towards
 
-<!-- ============================ GOALS ============================ -->
-<h2 align="center">🎯 Currently Working Towards</h2>
-
-<div align="center">
-
-✅ Build real projects with React and JavaScript
-🔄 Learning Node.js, Express and databases
-⬜ Land my first role as a **Full Stack Developer**
-⬜ Contribute to an open-source project
-
-</div>
+- [x] Build real projects with React and JavaScript
+- [x] Get comfortable with Git/GitHub workflows
+- [ ] Learn Node.js, Express and databases
+- [ ] Land my first role as a **Full Stack Developer**
+- [ ] Contribute to an open-source project
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-<!-- ============================ CONTACT ============================ -->
-<h2 align="center">🤝 Let's Work Together</h2>
+## 🤝 Let's Work Together
 
 <div align="center">
 
@@ -218,4 +208,3 @@ If you're hiring or have a project idea, I'd love to hear from you.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0b0f2a&height=110&section=footer" width="100%" alt="footer" />
-
