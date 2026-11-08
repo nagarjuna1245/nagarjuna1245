@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/hero?username=nagarjuna1245&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295368366%3Fv%3D4" alt="nagarjuna1245 hero visual" />
-
 # Venkata Nagarjuna Kotha
 
 ### Full Stack Developer · React · JavaScript · SQL
@@ -17,6 +15,51 @@
 <a href="https://github.com/nagarjuna1245"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>🧰 Tech Stack</b></summary>
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><b>Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,js&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tooling / Deploy</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" /></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>📋 Quick Facts</b></summary>
+<br/>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🎓 Education | B.Tech CSE, Anurag Engineering College (2026) |
+| 🎯 Role target | Full Stack Developer (Fresher / Entry-level) |
+| 🟢 Status | Open to work |
+| 📍 Location | Hyderabad, India |
+| 📫 Contact | [LinkedIn](https://www.linkedin.com/in/nagarjuna-kotha/) · [Email](mailto:nagarjunakotha378@gmail.com) |
+
+</div>
+
+</details>
 
 <br/>
 
@@ -54,24 +97,7 @@ B.Tech in Computer Science (Anurag Engineering College, Class of 2026). I learn 
   <img src="https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="25%"><b>Frontend</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,js&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Database</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Tooling / Deploy</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" /></td>
-</tr>
-</table>
+<p align="center"><sub>Language mix from repo stats · full toolkit above in Tech Stack</sub></p>
 
 <br/>
 
@@ -101,26 +127,39 @@ location: Hyderabad, India
 
 ## Experiments
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Water-sort-ReactJs-&theme=tokyonight&hide_border=true" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Water-sort-ReactJs-&theme=tokyonight&hide_border=true" />
   </a>
+</td>
+<td align="center" width="50%">
   <a href="https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=E-Commerce-Website-React-Js-&theme=tokyonight&hide_border=true" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=E-Commerce-Website-React-Js-&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-
-<p align="center">
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
   <a href="https://github.com/nagarjuna1245/Simple-GPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Simple-GPT&theme=tokyonight&hide_border=true" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Simple-GPT&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
 
 | Project | What it is | Tech |
 |:--|:--|:--|
 | 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/Water-sort-ReactJs-) | Interactive color-sorting puzzle — pour water between tubes | \`React\` \`JavaScript\` \`CSS\` |
 | 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | \`React\` \`JavaScript\` |
 | 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | \`JavaScript\` |
+
+</div>
 
 <br/>
 
