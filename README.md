@@ -1,8 +1,6 @@
 <div align="center">
 
-# Venkata Nagarjuna Kotha
-
-### Full Stack Developer · React · JavaScript · SQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,50:1e3a8a,100:7c3aed&height=220&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20JavaScript%20%C2%B7%20SQL&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
 
 <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" />
