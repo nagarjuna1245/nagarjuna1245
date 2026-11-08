@@ -18,11 +18,21 @@
 
 </div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
 ## Lab overview
 
-> Frontend / full-stack engineer
+<div align="center">
 
 B.Tech in Computer Science (Anurag Engineering College, Class of 2026). I learn by building — creating web apps with **React and JavaScript**, and growing into a full-stack role by picking up backend development and databases. Open to **fresher / entry-level** Full Stack Developer positions.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## Evidence
 
@@ -32,32 +42,47 @@ B.Tech in Computer Science (Anurag Engineering College, Class of 2026). I learn 
 
 <p align="center"><code>75 contributions</code> · <code>0 day streak</code></p>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
 ## Methods and tools
 
-**Language mix (repo stats)**
-- **JavaScript** · 62%
-- **CSS** · 28%
-- **HTML** · 10%
-
-**Full toolkit**
-
-| Layer | Tools |
-|:--|:--|
-| Frontend | HTML · CSS · JavaScript · React |
-| Languages | JavaScript · Python |
-| Database | MySQL |
-| Tooling / Deploy | Git · GitHub · Vercel · VS Code |
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vercel,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/JavaScript-62%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-28%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><b>Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,js&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tooling / Deploy</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" /></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## Research notes
 
 <details open>
 <summary><b>profile.manifest</b></summary>
 
-```yaml
+\`\`\`yaml
 name: Venkata Nagarjuna Kotha
 handle: nagarjuna1245
 focus: Full Stack Development (React · JavaScript · SQL)
@@ -66,9 +91,13 @@ education: B.Tech CSE, Anurag Engineering College, 2026
 languages: [JavaScript, Python, HTML, CSS, SQL]
 repositories: 9
 location: Hyderabad, India
-```
+\`\`\`
 
 </details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## Experiments
 
@@ -89,29 +118,73 @@ location: Hyderabad, India
 
 | Project | What it is | Tech |
 |:--|:--|:--|
-| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/Water-sort-ReactJs-) | Interactive color-sorting puzzle — pour water between tubes | `React` `JavaScript` `CSS` |
-| 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | `React` `JavaScript` |
-| 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | `JavaScript` |
+| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/Water-sort-ReactJs-) | Interactive color-sorting puzzle — pour water between tubes | \`React\` \`JavaScript\` \`CSS\` |
+| 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | \`React\` \`JavaScript\` |
+| 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | \`JavaScript\` |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## What I bring
 
-| | |
-|:--|:--|
-| 🧱 **Project-driven** | I learn by building real, working projects |
-| ⚛️ **React skills** | Component-based UIs with JavaScript |
-| 🔀 **Git workflow** | Version control with Git and GitHub |
-| 🌱 **Fast learner** | Always picking up new tools and concepts |
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<h3>🧱</h3>
+<b>Project-Driven</b><br/>
+<sub>I learn by building real, working projects</sub>
+</td>
+<td align="center" width="25%">
+<h3>⚛️</h3>
+<b>React Skills</b><br/>
+<sub>Component-based UIs with JavaScript</sub>
+</td>
+<td align="center" width="25%">
+<h3>🔀</h3>
+<b>Git Workflow</b><br/>
+<sub>Version control with Git and GitHub</sub>
+</td>
+<td align="center" width="25%">
+<h3>🌱</h3>
+<b>Fast Learner</b><br/>
+<sub>Always picking up new tools and concepts</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## Certifications
 
-- **Full Stack Developer** — HTML, CSS, JavaScript, React, Python, Django, DSA, SQL, Git, GitHub
+<div align="center">
+
+| Course | Focus |
+|:--|:--|
+| 🌐 **Full Stack Developer** | HTML, CSS, JavaScript, React, Python, Django, DSA, SQL, Git, GitHub |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## Currently working towards
 
-- ✅ Building real projects with React and JavaScript
-- 🔄 Learning Node.js, Express and databases
-- ⬜ Landing a first role as a Full Stack Developer
-- ⬜ Contributing to an open-source project
+<div align="center">
+
+✅ Building real projects with React and JavaScript
+🔄 Learning Node.js, Express and databases
+⬜ Landing a first role as a Full Stack Developer
+⬜ Contributing to an open-source project
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## Compare notes
 
