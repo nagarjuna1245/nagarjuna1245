@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/hero?username=nagarjuna1245&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295368366%3Fv%3D4" alt="nagarjuna1245 hero visual" />
-
 # Venkata Nagarjuna Kotha
 
 ### Full Stack Developer · React · JavaScript · SQL
@@ -74,18 +72,6 @@
 B.Tech in Computer Science (Anurag Engineering College, Class of 2026). I learn by building — creating web apps with **React and JavaScript**, and growing into a full-stack role by picking up backend development and databases. Open to **fresher / entry-level** Full Stack Developer positions.
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
-
-## Evidence
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=nagarjuna1245&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295368366%3Fv%3D4" alt="nagarjuna1245 stats visual" />
-</p>
-
-<p align="center"><code>75 contributions</code> · <code>0 day streak</code></p>
 
 <br/>
 
@@ -228,10 +214,6 @@ location: Hyderabad, India
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
 
 ## Compare notes
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=nagarjuna1245&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F295368366%3Fv%3D4" alt="nagarjuna1245 social visual" />
-</p>
 
 <div align="center">
 
