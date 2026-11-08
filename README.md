@@ -72,13 +72,26 @@ location: Hyderabad, India
 
 ## Experiments
 
-- **[Water-sort-ReactJs-](https://github.com/nagarjuna1245/Water-sort-ReactJs-)** — Interactive color-sorting puzzle game; pour water between tubes · `React` `JavaScript` `CSS` · ⭐ 0
-- **[E-Commerce-Website-React-Js-](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-)** — Online shopping site with product listing and cart · `React` `JavaScript`
-- **[Simple-GPT](https://github.com/nagarjuna1245/Simple-GPT)** — Chatbot that answers questions using an AI model · `JavaScript` · ⭐ 1
-- **[Foodhub](https://github.com/nagarjuna1245/Foodhub)** — Food ordering / menu browsing web app · ⭐ 0
-- **[cafe-management](https://github.com/nagarjuna1245/cafe-management)** — Cafe order and billing management system · ⭐ 0
-- **[multipage-website](https://github.com/nagarjuna1245/multipage-website)** — Multi-page site built to practice routing and layout fundamentals · ⭐ 0
-- **[nagarjuna1245](https://github.com/nagarjuna1245/nagarjuna1245)** — This profile README · ⭐ 0
+<p align="center">
+  <a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Water-sort-ReactJs-&theme=tokyonight&hide_border=true" width="47%" />
+  </a>
+  <a href="https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=E-Commerce-Website-React-Js-&theme=tokyonight&hide_border=true" width="47%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nagarjuna1245/Simple-GPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Simple-GPT&theme=tokyonight&hide_border=true" width="47%" />
+  </a>
+</p>
+
+| Project | What it is | Tech |
+|:--|:--|:--|
+| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/Water-sort-ReactJs-) | Interactive color-sorting puzzle — pour water between tubes | `React` `JavaScript` `CSS` |
+| 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | `React` `JavaScript` |
+| 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | `JavaScript` |
 
 ## What I bring
 
