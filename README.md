@@ -1,94 +1,84 @@
-<!-- ================================================== -->
-<!--                 PROFILE HEADER                    -->
-<!-- ================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:101513,50:29332D,100:A3C66A&text=Venkata%20Nagarjuna%20Kotha&fontSize=40&fontColor=F0F4ED&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=15&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:101513,50:29332D,100:A3C66A&text=Venkata%20Nagarjuna%20Kotha&fontSize=40&fontColor=F0F4ED&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=15&descAlignY=58" />
 
-<br/>
+### BUILD &nbsp; • &nbsp; LEARN &nbsp; • &nbsp; INNOVATE
 
-### Building meaningful digital experiences through code.
+*Creating useful digital experiences, one project at a time.*
 
-*Build • Learn • Innovate*
-
-<br/>
-
-<img src="https://img.shields.io/badge/Developer-202724?style=for-the-badge&logo=visualstudiocode&logoColor=A3D65C"/>
-<img src="https://img.shields.io/badge/Learner-202724?style=for-the-badge&logo=rocket&logoColor=A3D65C"/>
-<img src="https://img.shields.io/badge/Builder-202724?style=for-the-badge&logo=codepen&logoColor=A3D65C"/>
-<img src="https://img.shields.io/badge/Tech%20Lover-202724?style=for-the-badge&logo=heart&logoColor=A3D65C"/>
+[![GitHub](https://img.shields.io/badge/GitHub-202724?style=for-the-badge&logo=github&logoColor=EAF0E9)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-202724?style=for-the-badge&logo=linkedin&logoColor=B7E65C)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-202724?style=for-the-badge&logo=gmail&logoColor=B7E65C)](mailto:YOUR_EMAIL)
 
 </div>
 
-<br/>
-
-<!-- ================================================== -->
-<!--                   ABOUT ME                         -->
-<!-- ================================================== -->
+---
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
-I'm **Venkata Nagarjuna Kotha**, a passionate Full Stack Developer who loves building scalable web applications and solving real-world problems.
+I'm **Venkata Nagarjuna Kotha**, a passionate Full Stack Developer who enjoys building scalable web applications and solving real-world problems.
 
-Always eager to learn new technologies, explore creative solutions, and improve my development skills.
+- 💻 Interested in full-stack development.
+- 🧠 Practicing Data Structures & Algorithms.
+- 🚀 Building practical projects and improving my skills.
+- 🌱 Always learning and exploring new technologies.
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-| 💡 Creative Thinker | 🤝 Team Player | 📈 Continuous Learner |
-|:---:|:---:|:---:|
+## ✨ What I Bring
+
+- 💡 **Problem Solving** — Breaking challenges into practical solutions.
+- 🎨 **UI Development** — Creating responsive, user-friendly interfaces.
+- 🤝 **Collaboration** — Sharing ideas and working with a team.
+- ⚡ **Adaptability** — Learning tools and technologies quickly.
+- 📈 **Growth Mindset** — Improving through practice and feedback.
 
 </td>
 </tr>
 </table>
 
-<!-- ================================================== -->
-<!--                   TECH STACK                       -->
-<!-- ================================================== -->
+---
 
 ## ⚙️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
 
-### Frontend Development
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" />
 
-### Backend & Database
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
 
-### Development Tools
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/DSA-252E2A?style=flat-square&logo=thealgorithms&logoColor=A3C66A"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-252E2A?style=flat-square&logo=leetcode&logoColor=A3C66A"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-252E2A?style=flat-square&logo=css3&logoColor=A3C66A"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-202724?style=flat-square&logo=thealgorithms&logoColor=B7E65C" />
+<img src="https://img.shields.io/badge/Problem%20Solving-202724?style=flat-square&logo=leetcode&logoColor=B7E65C" />
+<img src="https://img.shields.io/badge/Responsive%20Design-202724?style=flat-square&logo=css3&logoColor=B7E65C" />
 
 </div>
 
 ---
-
-<!-- ================================================== -->
-<!--                FEATURED PROJECTS                    -->
-<!-- ================================================== -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-*Turning ideas into functional applications.*
+*Selected work — replace the sample entries below with your real projects.*
 
 </div>
 
@@ -96,154 +86,75 @@ Always eager to learn new technologies, explore creative solutions, and improve 
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Project 01
+### 01 · Project One
 
 **YOUR PROJECT NAME**
 
-Describe your project, its purpose, important features, and the problem it solves.
-
-**Tech Stack**
+Write 2–3 lines about what this project does, the problem it solves, and the feature you personally implemented.
 
 `React.js` `JavaScript` `CSS`
 
-[🔗 Live Demo](YOUR_LIVE_DEMO_URL)
-
-[📂 Source Code](YOUR_REPOSITORY_URL)
+[Live Demo ↗](YOUR_LIVE_DEMO_URL) · [Source Code ↗](YOUR_REPOSITORY_URL)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔹 Project 02
+### 02 · Project Two
 
 **YOUR PROJECT NAME**
 
-Describe the application and highlight the functionality you personally developed.
+Describe the application, its main functionality, and how users benefit from it.
 
-**Tech Stack**
+`Python` `SQL` `HTML`
 
-`Python` `SQL` `HTML` `CSS`
-
-[🔗 Live Demo](YOUR_LIVE_DEMO_URL)
-
-[📂 Source Code](YOUR_REPOSITORY_URL)
+[Live Demo ↗](YOUR_LIVE_DEMO_URL) · [Source Code ↗](YOUR_REPOSITORY_URL)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Project 03
+### 03 · Project Three
 
 **YOUR PROJECT NAME**
 
-Explain the main features, user experience, and technical implementation.
-
-**Tech Stack**
+Highlight an interesting technical challenge or a useful feature you built.
 
 `React.js` `Bootstrap` `JavaScript`
 
-[🔗 Live Demo](YOUR_LIVE_DEMO_URL)
-
-[📂 Source Code](YOUR_REPOSITORY_URL)
+[Live Demo ↗](YOUR_LIVE_DEMO_URL) · [Source Code ↗](YOUR_REPOSITORY_URL)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔹 Project 04
+### 04 · Project Four
 
 **YOUR PROJECT NAME**
 
-Showcase another project demonstrating your programming and problem-solving skills.
-
-**Tech Stack**
+Showcase another project that demonstrates your programming and problem-solving abilities.
 
 `Python` `DSA` `SQL`
 
-[🔗 Live Demo](YOUR_LIVE_DEMO_URL)
-
-[📂 Source Code](YOUR_REPOSITORY_URL)
+[Live Demo ↗](YOUR_LIVE_DEMO_URL) · [Source Code ↗](YOUR_REPOSITORY_URL)
 
 </td>
 </tr>
 </table>
 
 ---
-
-<!-- ================================================== -->
-<!--                  WHAT I BRING                      -->
-<!-- ================================================== -->
-
-## ✨ What I Bring
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**⚡ Problem Solving**
-
-Turning complex challenges into practical solutions.
-
-**🎨 UI Development**
-
-Building modern, responsive, and user-friendly interfaces.
-
-**🚀 Adaptability**
-
-Learning and growing with new technologies.
-
-</td>
-<td width="50%" valign="top">
-
-**🤝 Collaboration**
-
-Working effectively with teams and sharing ideas.
-
-**🧩 Attention to Detail**
-
-Writing clean, organized, and maintainable code.
-
-**📈 Growth Mindset**
-
-Always improving through practice and continuous learning.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================================================== -->
-<!--             CURRENTLY WORKING TOWARDS               -->
-<!-- ================================================== -->
 
 ## 🎯 Currently Working Towards
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td valign="top">
 
-- 🟢 Strengthening Data Structures and Algorithms using Python.
+- 🟢 Strengthening Data Structures & Algorithms using Python.
 - 🟢 Improving JavaScript and React.js concepts.
-- 🟢 Building impactful Full Stack applications.
+- 🟢 Building impactful full-stack applications.
 - 🟢 Enhancing backend development and SQL skills.
-- 🟢 Exploring real-world development practices.
-- 🟢 Improving code quality and problem-solving abilities.
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-A3C66A?style=for-the-badge&labelColor=202724"/>
-
-<br/><br/>
-
-**Dream**
-
-**Code**
-
-**Achieve**
+- 🟢 Contributing to open-source projects.
+- 🟢 Writing clean, reusable, maintainable code.
 
 </td>
 </tr>
@@ -251,36 +162,36 @@ Always improving through practice and continuous learning.
 
 ---
 
-<!-- ================================================== -->
-<!--                 LET'S CONNECT                      -->
-<!-- ================================================== -->
-
 <div align="center">
 
 ## 🤝 Let's Work Together
 
-### Let's build something amazing!
+I'm open to connecting with developers, exchanging ideas, and collaborating on meaningful projects.
 
-I'm always open to collaborating, discussing ideas, learning from developers, and working on exciting projects.
+**Have an interesting idea? Let's build something together.**
+
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Work-202724?style=for-the-badge&logo=github&logoColor=B7E65C)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-202724?style=for-the-badge&logo=linkedin&logoColor=B7E65C)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Let's%20Talk-202724?style=for-the-badge&logo=gmail&logoColor=B7E65C)](mailto:YOUR_EMAIL)
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-202724?style=for-the-badge&logo=github&logoColor=EAF0E9"/>
-</a>
+### `BUILD` &nbsp; • &nbsp; `LEARN` &nbsp; • &nbsp; `IMPROVE` &nbsp; • &nbsp; `REPEAT`
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-202724?style=for-the-badge&logo=linkedin&logoColor=A3C66A"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-202724?style=for-the-badge&logo=gmail&logoColor=A3C66A"/>
-</a>
-
-<br/><br/>
-
-### `BUILD  •  LEARN  •  IMPROVE  •  REPEAT`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:101513,50:29332D,100:A3C66A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:101513,50:29332D,100:A3C66A" />
 
 </div>
+
+<!--
+PERSONALIZATION CHECKLIST
+1. Replace YOUR_USERNAME with your GitHub username.
+2. Replace YOUR_LINKEDIN_URL with your LinkedIn profile URL.
+3. Replace YOUR_EMAIL with your professional email.
+4. Replace each YOUR PROJECT NAME, description, repository URL and live demo URL.
+5. Remove project entries you do not want to display.
+
+GITHUB STYLING NOTE
+GitHub sanitizes README HTML and does not apply custom CSS or <style> blocks.
+This README uses GitHub-supported Markdown, HTML tables, images and badges
+to create a consistent graphite-and-lime visual style.
+-->
