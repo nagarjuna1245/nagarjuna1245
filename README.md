@@ -1,4 +1,3 @@
-
 <!-- ============================ BANNER ============================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,50:1e3a8a,100:7c3aed&height=260&section=header&text=Venkata%20Nagarjuna%20Kotha&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20JavaScript%20%C2%B7%20SQL&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Venkata Nagarjuna Kotha - Full Stack Developer" />
@@ -10,8 +9,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-1e3a8a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-7c3aed?style=for-the-badge" />
 
 <br/><br/>
 
@@ -21,11 +20,11 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vercel,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mysql,git,github,vercel,vscode&theme=dark" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nagarjuna1245&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=nagarjuna1245&label=Profile%20Views&color=7c3aed&style=flat-square" />
 
 </div>
 
@@ -82,8 +81,8 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
 </tr>
 <tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,js&theme=dark" /></td>
+<td align="center"><b>Backend <sub>(in progress)</sub></b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Database</b></td>
@@ -101,18 +100,22 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 <!-- ============================ PROJECTS ============================ -->
 
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
 | Project | What it is | Tech |
 |:--------|:-----------|:-----|
-| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/Water-sort-ReactJs-) | Interactive color sorting puzzle where you pour water between tubes · [Live demo](https://puzz.vercel.app/) | `React` `JavaScript` `CSS` |
+| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/Water-sort-ReactJs-) | Interactive color-sorting puzzle · [Live demo](https://puzz.vercel.app/) | `React` `Vite` `JavaScript` |
 | 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | `React` `JavaScript` |
 | 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | `JavaScript` |
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f2a,50:36BCF7,100:0b0f2a&height=2" width="100%" />
+
 <!-- ============================ WHAT I BRING ============================ -->
 
 <h2 align="center">💡 What I Bring</h2>
@@ -152,9 +155,21 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 
 <div align="center">
 
-| Course | Focus |
-|:-------|:------|
-| 🌐 **Full Stack Developer** | HTML, CSS, JavaScript, React, Python, Django, DSA, SQL, Git, GitHub |
+**Full Stack Developer Certification** — HTML, CSS, JavaScript, React, Python, Django, DSA, SQL, Git, GitHub
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
