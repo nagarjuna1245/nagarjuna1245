@@ -97,35 +97,9 @@ I'm looking for a **fresher or entry-level role** where I can contribute, learn 
 <!-- ============================ PROJECTS ============================ -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/nagarjuna1245/Water-sort-ReactJs-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=water-sort-puzzle-game&theme=tokyonight&hide_border=true" />
-  </a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=E-Commerce-Website-React-Js-&theme=tokyonight&hide_border=true" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-  <a href="https://github.com/nagarjuna1245/Simple-GPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagarjuna1245&repo=Simple-GPT&theme=tokyonight&hide_border=true" />
-  </a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
 | Project | What it is | Tech |
 |:--------|:-----------|:-----|
-| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/water-sort-puzzle-game) | Interactive color sorting puzzle where you pour water between tubes | `React` `JavaScript` `CSS` |
+| 🎮 [**Water Sort Puzzle Game**](https://github.com/nagarjuna1245/Water-sort-ReactJs-) | Interactive color sorting puzzle where you pour water between tubes | `React` `JavaScript` `CSS` |
 | 🛒 [**E-Commerce Website**](https://github.com/nagarjuna1245/E-Commerce-Website-React-Js-) | Online shopping site with product listing and cart | `React` `JavaScript` |
 | 🤖 [**Simple GPT**](https://github.com/nagarjuna1245/Simple-GPT) | Chatbot that answers questions using an AI model | `JavaScript` |
 
